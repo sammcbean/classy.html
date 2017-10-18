@@ -1,0 +1,29 @@
+body {
+  font-family:Arial, Verdana, sans-sherif;
+  color: #f442b9;
+  padding; 10px;
+}
+
+h1 {
+  background-color:#5ff442;
+  color:#ffffff;
+  padding:inherit;
+}
+
+.page {
+  border: 1px solid #f442b9;
+  background-color: #bbbdc1;
+  padding:inherit;
+}
+
+.pink{
+  background-color:#d68dd3;
+  color:#ffffff;
+  padding:inherit;
+}
+
+.white{
+  background-color:#ffffff;
+  color:#b7b3b7;
+  padding:inherit;
+}
